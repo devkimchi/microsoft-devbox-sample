@@ -1,6 +1,6 @@
 # Azure Dev Box Sample
 
-This provides Azure Bicep templates to create Azure Dev Box within your subscription.
+This provides [Azure Bicep](https://learn.microsoft.com/azure/azure-resource-manager/bicep/overview) templates to create [Azure Dev Box](https://learn.microsoft.com/azure/dev-box/overview-what-is-microsoft-dev-box) within your subscription.
 
 ## Acknowledgement
 
@@ -51,3 +51,12 @@ This provides Azure Bicep templates to create Azure Dev Box within your subscrip
 1. Once all provisioned, log into [Microsoft Developer Portal](https://devportal.microsoft.com).
 1. Create a new Dev Box to use.
 1. Once the Dev Box is running, log into the Dev Box with your account.
+
+## Want to try more?
+
+Here are some documents you might be interested in:
+
+- [What is Microsoft Dev Box?](https://learn.microsoft.com/azure/dev-box/overview-what-is-microsoft-dev-box)
+- [Set up Microsoft Dev Box](https://learn.microsoft.com/azure/dev-box/quickstart-configure-dev-box-service)
+- [Create a Dev Box from Developer Portal](https://learn.microsoft.com/azure/dev-box/quickstart-create-dev-box)
+- [Azure Dev Center Quick Start](https://github.com/Azure-Samples/Devcenter)
